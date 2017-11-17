@@ -1,0 +1,22 @@
+.ui-widget-header
+{
+	background :#f16121
+}
+.cart-right-top
+{
+	position: fixed; 
+    margin-top: 15px;
+    margin-right: 10px;
+	right: 0;
+	top:0;
+	z-index:9999999999999;
+}
+.cart-details-under
+{
+	display: none;
+}
+@media (min-width: 1280px) {
+	.cart-right-top{
+		display: none;
+	}
+}
