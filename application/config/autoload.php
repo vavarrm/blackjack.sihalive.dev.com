@@ -68,7 +68,9 @@ $autoload['libraries'] = array(
 	'MyDecryption' =>'decryption',
 	'MyFBApi' =>'fb',
 	'MySocketIO' =>'socketIO',
-	'session'
+	'MyPoker'	=>'poker',
+	'session',
+
 );
 
 /*
